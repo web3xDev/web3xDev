@@ -11,7 +11,7 @@ As a passionate developer in the Web3 space, I’m dedicated to building innovat
 
 
 ## 🚀 My Main Projects:
-- [StarkMint](https://starkmint.xyz/)
+- [StarkMint](https://starkmint.xyz/) - A user-friendly platform on Starknet allowing you to create your own ERC20 Tokens and ERC721 NFTs without any coding.
   
 ## 💼 For Collaboration and Projects:
 - 🌐 Website: [https://fullstackweb3.dev/](https://fullstackweb3.dev/)
