@@ -1,6 +1,6 @@
 # 🚀 Hello, I'm Alparslan! 🌟
 
-## 🔥 Full Stack Web3 Developer | React.js & Solidity Expert
+## 👨🏼‍💻 Full Stack Web3 Developer | React.js & Solidity Expert
 🌐 I'm committed to adding value in the Web3 Space.
 
 ## ✨ Key Skills:
