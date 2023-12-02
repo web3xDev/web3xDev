@@ -1,7 +1,7 @@
 # 🚀 Hello, I'm Alparslan! 🌟
 
 ## 👨🏼‍💻 Full Stack Web3 Developer | React.js & Solidity Expert
-🌐 I'm committed to adding value in the Web3 Space.
+As a passionate developer in the Web3 space, I’m dedicated to building innovative and user-centric decentralized applications (dApps). My journey in this field is driven by a commitment to continuous learning and a desire to contribute positively to the ecosystem.
 
 ## ✨ Key Skills:
 - 💡 **Innovative Approach:** I develop original and impactful dApps using modern technologies, with a strong focus on security and resilience.
