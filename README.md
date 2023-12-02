@@ -4,10 +4,10 @@
 🌐 I'm committed to adding value in the Web3 Space.
 
 ## ✨ Key Skills:
-- 💡 **Innovative Approach:** I develop original and impactful dApps using modern technologies.
-- 👨🏼‍💻 **Technical Expertise:** I possess in-depth knowledge and experience in React.js, Solidity, ethers.js, Hardhat, and Web3 APIs. Additionally, I am skilled in developing smart contracts using Cairo and building dApps on Starknet.
-- 🛠️ **From Ground Up Development:** I excel in building fully-featured full-stack dApps from concept to implementation, including those on emerging platforms like StarkNet.
-- 🚀 **Rapid Learning and Application:** My ability to quickly learn new technologies, such as Cairo for StarkNet, and effectively apply them in practical projects sets me apart in the ever-evolving world of Web3.
+- 💡 **Innovative Approach:** I develop original and impactful dApps using modern technologies, with a strong focus on security and resilience.
+- 👨🏼‍💻 **Technical Expertise:** I possess in-depth knowledge and experience in React.js, Solidity, ethers.js, Hardhat, and Web3 APIs. My skill set extends to developing smart contracts with Cairo and building dApps on Starknet. Also, proficient in utilizing security tools like Slither and Echidna to ensure robust and secure smart contract development.
+- 🛠️ **From Ground Up Development:** I excel in building fully-featured full-stack dApps from concept to implementation, including those on emerging platforms like StarkNet. My development process always incorporates rigorous security measures to safeguard against vulnerabilities.
+- 🚀 **Rapid Learning and Application:** My ability to quickly learn new technologies, such as Cairo for StarkNet, and effectively apply them in practical projects, including adapting to the latest security practices, sets me apart in the ever-evolving world of Web3.
 
 
 ## 🚀 My Main Projects:
