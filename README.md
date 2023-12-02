@@ -20,4 +20,4 @@ As a passionate developer in the Web3 space, I’m dedicated to building innovat
 - 📱 Telegram: [@fullstackweb3dev](https://t.me/fullstackweb3dev)
 - 🐱 GitHub: [@web3xDev](https://github.com/web3xDev)
 
-✨ **I offer innovative solutions that transcend the boundaries of technology. Let's create amazing things together!**
+✨ Keen on pushing the boundaries of Web3? Let's create incredible dApps together!
