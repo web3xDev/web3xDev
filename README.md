@@ -17,6 +17,5 @@ As a passionate developer in the Web3 space, I’m dedicated to building innovat
 - 🌐 Website: [https://fullstackweb3.dev/](https://fullstackweb3.dev/)
 - 📧 Email: [alparslan@fullstackweb3.dev](mailto:alparslan@fullstackweb3.dev)
 - 💬 LinkedIn: [https://www.linkedin.com/in/alparslanemanet/](https://www.linkedin.com/in/alparslanemanet/)
-- 🐱 GitHub: [@web3xDev](https://github.com/web3xDev)
 
 ✨ Keen on pushing the boundaries of Web3? Let's create incredible dApps together!
