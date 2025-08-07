@@ -1,6 +1,6 @@
 # 🚀 Hello, I'm Muhammed Alparslan! 🌟
 
-## 👨🏼‍💻 Full Stack Web3 Developer | React.js & Solidity Expert
+## 👨🏼‍💻 Web3 Developer | React.js & Solidity Expert
 As a passionate developer in the Web3 space, I’m dedicated to building innovative and user-centric decentralized applications (dApps). My journey in this field is driven by a commitment to continuous learning and a desire to contribute positively to the ecosystem.
 
 ## ✨ Key Skills:
