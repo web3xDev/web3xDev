@@ -9,13 +9,4 @@ As a passionate developer in the Web3 space, I’m dedicated to building innovat
 - 🛠️ **From Ground Up Development:** I excel in building fully-featured full-stack dApps from concept to implementation, including those on emerging platforms like StarkNet. My development process always incorporates rigorous security measures to safeguard against vulnerabilities.
 - 🚀 **Rapid Learning and Application:** My ability to quickly learn new technologies, such as Cairo for StarkNet, and effectively apply them in practical projects, including adapting to the latest security practices, sets me apart in the ever-evolving world of Web3.
 
-
-## 🚀 My Main Projects:
-- [StarkMint](https://starkmint.xyz/) - A user-friendly platform on Starknet allowing you to create your own ERC20 Tokens and ERC721 NFTs without any coding.
-  
-## 💼 For Collaboration and Projects:
-- 🌐 Website: [https://fullstackweb3.dev/](https://fullstackweb3.dev/)
-- 📧 Email: [alparslan@fullstackweb3.dev](mailto:alparslan@fullstackweb3.dev)
-- 💬 LinkedIn: [https://www.linkedin.com/in/alparslanemanet/](https://www.linkedin.com/in/alparslanemanet/)
-
 ✨ Keen on pushing the boundaries of Web3? Let's create incredible dApps together!
