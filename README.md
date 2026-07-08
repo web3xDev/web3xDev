@@ -30,4 +30,4 @@ These are what I reach for most — but I pick up whatever a project needs, fast
 
 ### 🤝 Reach me
 
-[X/Twitter](https://...) · [LinkedIn](https://...) · [your@email]
+[LinkedIn](https://www.linkedin.com/in/alparslanemanet) 
