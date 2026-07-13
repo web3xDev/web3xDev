@@ -8,7 +8,7 @@ US startup, and I like shipping polished products, fast.
 Right now I'm all-in on **x402 and agentic payments**, the emerging rail for
 machines that pay per request.
 
-### 🔭 Currently building — [Flash402](https://flash402.xyz)
+### 🔭 Currently building: [Flash402](https://flash402.xyz)
 
 Turn any API into a **pay-per-call endpoint**. Flash402 puts an onchain USDC
 paywall in front of any API over HTTP 402, no accounts, no API keys, no code
