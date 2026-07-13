@@ -17,6 +17,16 @@ changes. Humans or AI agents pay per call; it settles onchain.
 - 🌐 Live: **[flash402.xyz](https://flash402.xyz)**
 - 📖 How it's built (case study): **[flash402-showcase](https://github.com/web3xDev/flash402-showcase)**
 
+### 🧪 Also building: [Paywright](https://paywright.xyz)
+
+The **Postman for x402**. Send a request to any x402 endpoint, decode the 402
+payment challenge, pay in USDC from your wallet, and inspect the fully settled
+response, receipt and onchain trace included. The client I wanted while shipping
+onchain-metered APIs.
+
+- 🌐 Live: **[paywright.xyz](https://paywright.xyz)**
+- 📖 How it's built (case study): **[paywright-showcase](https://github.com/web3xDev/paywright-showcase)**
+
 ### 🛠️ Stack
 
 `TypeScript` · `React` · `Next.js` · `Tailwind` · `wagmi` · `viem` · `Postgres`
