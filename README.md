@@ -41,4 +41,4 @@ These are what I reach for most, but I pick up whatever a project needs, fast.
 ### 🤝 Reach me
 
 [LinkedIn](https://www.linkedin.com/in/alparslanemanet) 
--- [Portfolio](https://web3xdev.computer/)
+· [Portfolio](https://web3xdev.computer/)
