@@ -6,13 +6,13 @@ Two years shipping production web3 UIs as a remote frontend engineer at a US sta
 
 ---
 
-### 🔭 Flash402 — [flash402.xyz](https://flash402.xyz)
+### 🔭 Flash402 · **[flash402.xyz](https://flash402.xyz)** &nbsp;![Live](https://img.shields.io/badge/live-brightgreen?style=flat-square)
 
 An onchain USDC paywall for any API. Flash402 sits in front of any endpoint over HTTP 402: no accounts, no API keys, no code changes. Humans or AI agents pay per call, and it settles onchain.
 
 📖 Case study: **[flash402-showcase](https://github.com/web3xDev/flash402-showcase)**
 
-### 🧪 Paywright — [paywright.xyz](https://paywright.xyz)
+### 🧪 Paywright · **[paywright.xyz](https://paywright.xyz)** &nbsp;![Live](https://img.shields.io/badge/live-brightgreen?style=flat-square)
 
 The Postman for x402. Send a request to any x402 endpoint, decode the 402 challenge, pay in USDC from your wallet, and inspect the fully settled response with receipt and onchain trace. The client I wished for while shipping metered APIs.
 
