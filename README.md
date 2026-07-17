@@ -2,7 +2,7 @@
 
 **Frontend-focused web3 full-stack dev.** I build polished onchain products, fast.
 
-Two years shipping production web3 UIs as a remote frontend engineer at a US startup. Now I'm all-in on **x402 and agentic payments**: the rail for machines that pay per request.
+Two years shipping production web3 UIs as a remote frontend engineer at a US DeFi platform built on Uniswap v3. Now I'm all-in on **x402 and agentic payments**: the rail for machines that pay per request.
 
 ---
 
