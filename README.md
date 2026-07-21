@@ -26,7 +26,7 @@ The Postman for x402. Send a request to any x402 endpoint, decode the 402 challe
 
 What I reach for most. I pick up whatever a project needs.
 
-### 📦 Previously
+### 📦 Past builds
 
 - **[StarkMint](https://github.com/web3xDev/StarkMint-tool)** — deploy ERC-20 tokens and ERC-721 collections on Starknet, no Cairo required.
 - **[MintZilla](https://github.com/web3xDev/MintZilla-tool)** — launch ERC-20 tokens across EVM chains, no Solidity, no code.
