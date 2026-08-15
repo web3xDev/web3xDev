@@ -29,7 +29,7 @@ What I reach for most. I pick up whatever a project needs.
 ### 🌱 Open source contributions
 
 - **[injective-ts](https://github.com/InjectiveLabs/injective-ts)** — fixed a mapping bug where the auction module returned the bid amount instead of the bidder address ([#704](https://github.com/InjectiveLabs/injective-ts/pull/704)); exposed missing `injBasketMaxCap`/`biddersWhitelist` fields in module params ([#705](https://github.com/InjectiveLabs/injective-ts/pull/705))
-- **[elfa-sdk-js](https://github.com/elfa-ai/elfa-sdk-js)** — fixed 429 retries ignoring the server's rate-limit reset ([#97](https://github.com/elfa-ai/elfa-sdk-js/pull/97)); narrowed mention/billing types against the live API ([#96](https://github.com/elfa-ai/elfa-sdk-js/pull/96))
+- **[elfa-sdk-js](https://github.com/elfa-ai/elfa-sdk-js)** — fixed 429 retries ignoring the server's rate-limit reset, landed as [#97](https://github.com/elfa-ai/elfa-sdk-js/pull/97); co-authored the `MentionType`/`billingMode` narrowing in [#96](https://github.com/elfa-ai/elfa-sdk-js/pull/96)
 
 ### 📦 Past builds
 
