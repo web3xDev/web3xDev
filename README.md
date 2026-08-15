@@ -6,13 +6,13 @@ Frontend-focused web3 full-stack dev. I build polished onchain products, fast.
 
 ---
 
-### 🔭 Flash402 — [flash402.xyz](https://flash402.xyz)
+### Flash402 — [flash402.xyz](https://flash402.xyz)
 
 Onchain USDC paywall for any API using x402. Drop it in front of an endpoint, no accounts or API keys, and humans or agents pay per call.
 
 📖 Case study: **[flash402-showcase](https://github.com/web3xDev/flash402-showcase)**
 
-### 🧪 Paywright — [paywright.xyz](https://paywright.xyz)
+### Paywright — [paywright.xyz](https://paywright.xyz)
 
 The Postman for x402. Hit an endpoint, pay in USDC from your wallet, inspect the settled response with receipt and onchain trace.
 
