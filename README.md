@@ -1,20 +1,20 @@
 # Hi, I'm Muhammed Alparslan 👋
 
-**Frontend-focused web3 full-stack dev.** I build polished onchain products, fast.
+Frontend-focused web3 full-stack dev. I build polished onchain products, fast.
 
-Over two years shipping production web3 UIs as a remote frontend engineer at a US DeFi platform built on Uniswap v3. Now I'm all-in on x402 and agentic payments: the rail for machines that pay per request.
+2+ years shipping production web3 UIs as a frontend engineer on a US DeFi platform built on Uniswap v3. Now I'm all-in on x402 and agentic payments: the rail for machines that pay per request.
 
 ---
 
-### 🔭 Flash402 · **[flash402.xyz](https://flash402.xyz)**
+### 🔭 Flash402 — [flash402.xyz](https://flash402.xyz)
 
-An onchain USDC paywall for any API. Flash402 sits in front of any endpoint over HTTP 402: no accounts, no API keys, no code changes. Humans or AI agents pay per call, and it settles onchain.
+Onchain USDC paywall for any API using x402. Drop it in front of an endpoint, no accounts or API keys, and humans or agents pay per call.
 
 📖 Case study: **[flash402-showcase](https://github.com/web3xDev/flash402-showcase)**
 
-### 🧪 Paywright · **[paywright.xyz](https://paywright.xyz)**
+### 🧪 Paywright — [paywright.xyz](https://paywright.xyz)
 
-The Postman for x402. Send a request to any x402 endpoint, decode the 402 challenge, pay in USDC from your wallet, and inspect the fully settled response with receipt and onchain trace. The client I wished for while shipping metered APIs.
+The Postman for x402. Hit an endpoint, pay in USDC from your wallet, inspect the settled response with receipt and onchain trace.
 
 📖 Case study: **[paywright-showcase](https://github.com/web3xDev/paywright-showcase)**
 
@@ -28,9 +28,9 @@ What I reach for most. I pick up whatever a project needs.
 
 ### 📦 Past builds
 
-- **[StarkMint](https://github.com/web3xDev/StarkMint-tool)** — deploy ERC-20 tokens and ERC-721 collections on Starknet, no Cairo required.
-- **[MintZilla](https://github.com/web3xDev/MintZilla-tool)** — launch ERC-20 tokens across EVM chains, no Solidity, no code.
+- **[StarkMint](https://github.com/web3xDev/StarkMint-tool)** — no-code launchpad for Starknet. Create your own token or NFT collection without writing a line of Cairo.
+- **[MintZilla](https://github.com/web3xDev/MintZilla-tool)** — no-code launchpad for EVM chains. Create your own token without writing a line of Solidity.
 
 ### 🤝 Reach me
 
-**[LinkedIn](https://www.linkedin.com/in/alparslanemanet)** · **[Portfolio](https://web3xdev.computer/)**
+[LinkedIn](https://www.linkedin.com/in/alparslanemanet) · [Portfolio](https://web3xdev.computer/)
