@@ -32,7 +32,7 @@ The Postman for x402. Hit an endpoint, pay in USDC from your wallet, inspect the
 
 ### 🛠️ Stack
 
-`TypeScript` · `React` · `Next.js` · `Tailwind` · `wagmi` · `viem` · `Postgres`
+`TypeScript` · `React` · `Next.js` · `Tailwind` · `wagmi` · `viem` · `Postgres` · `MCP` · `x402`
 
 What I reach for most. I pick up whatever a project needs.
 
