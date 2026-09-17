@@ -6,6 +6,14 @@ Frontend-focused web3 full-stack dev. I build polished onchain products, fast.
 
 ---
 
+### OnchainRouter — [onchainrouter.io](https://onchainrouter.io)
+
+Onchain tools for AI agents. An agent connects once over MCP or HTTP, sees every tool with its price, and pays per call with x402 from its own wallet, settled on Hedera or Arc. No API keys, no subscriptions; no answer, no charge. Data from The Graph.
+
+🏆 ETHOnline 2026 finalist, top 8 of 800+ submissions, built solo in a week.
+📦 npm: **[onchainrouter](https://www.npmjs.com/package/onchainrouter)**, a one-line server paywall, a paying client, and a wallet MCP for Claude Code.
+💻 Source: **[onchainrouter](https://github.com/web3xDev/onchainrouter)**
+
 ### Flash402 — [flash402.xyz](https://flash402.xyz)
 
 Onchain USDC paywall for any API using x402. Drop it in front of an endpoint, no accounts or API keys, and humans or agents pay per call.
