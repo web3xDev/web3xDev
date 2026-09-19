@@ -12,7 +12,7 @@ Onchain tools for AI agents. An agent connects once over MCP or HTTP, sees every
 
 🏆 ETHOnline 2026 finalist, top 8 of 800+ submissions, built solo in a week.
 
-📦 npm: **[onchainrouter](https://www.npmjs.com/package/onchainrouter)**, a one-line server paywall, a paying client, and a wallet MCP for Claude Code.
+npm: **[onchainrouter](https://www.npmjs.com/package/onchainrouter)**, a one-line server paywall, a paying client, and a wallet MCP for Claude Code.
 
 💻 Source: **[onchainrouter](https://github.com/web3xDev/onchainrouter)**
 
