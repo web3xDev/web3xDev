@@ -6,6 +6,8 @@ Frontend-focused web3 full-stack dev. I build polished onchain products, fast.
 
 ---
 
+### Solo Projects
+
 ### OnchainRouter — [onchainrouter.io](https://onchainrouter.io)
 
 Onchain tools for AI agents. An agent connects once over MCP or HTTP, sees every tool with its price, and pays per call with x402 from its own wallet, settled on Hedera or Arc. No API keys, no subscriptions; no answer, no charge. Data from The Graph.
