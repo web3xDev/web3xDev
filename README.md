@@ -6,7 +6,7 @@ Frontend-focused web3 full-stack dev. I build polished onchain products, fast.
 
 ---
 
-### Solo Projects
+### 🚀 Solo Projects
 
 ### OnchainRouter — [onchainrouter.io](https://onchainrouter.io)
 
