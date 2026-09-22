@@ -36,7 +36,7 @@ The Postman for x402. Hit an endpoint, pay in USDC from your wallet, inspect the
 
 `TypeScript` · `React` · `Next.js` · `Tailwind` · `wagmi` · `viem` · `Postgres` · `MCP` · `x402`
 
-What I reach for most. I pick up whatever a project needs.
+What I reach for most. But I pick up whatever a project needs, with AI it's like learning on steroids.
 
 ### 🌱 Open source contributions
 
