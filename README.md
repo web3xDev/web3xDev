@@ -14,7 +14,7 @@ Onchain tools for AI agents. An agent connects once over MCP or HTTP, sees every
 
 🏆 ETHOnline 2026 finalist, top 8 of 800+ submissions, built solo in a week.
 
-npm: **[onchainrouter](https://www.npmjs.com/package/onchainrouter)**, a one-line server paywall, a paying client, and a wallet MCP for Claude Code.
+📦 npm: **[onchainrouter](https://www.npmjs.com/package/onchainrouter)**, a one-line server paywall, a paying client, and a wallet MCP for Claude Code.
 
 💻 Source: **[onchainrouter](https://github.com/web3xDev/onchainrouter)**
 
@@ -44,7 +44,7 @@ What I reach for most. I pick up whatever a project needs.
 - **[elfa-sdk-js](https://github.com/elfa-ai/elfa-sdk-js)** — fixed 429 retries ignoring the server's rate-limit reset, landed as [#97](https://github.com/elfa-ai/elfa-sdk-js/pull/97); co-authored the `MentionType`/`billingMode` narrowing in [#96](https://github.com/elfa-ai/elfa-sdk-js/pull/96)
 - **[altana-sdk](https://github.com/altananetwork/altana-sdk)** — fixed a race condition where `hireErc8183Agent`'s `noWait` mode threw a false error and risked double-spending escrowed funds, landed as [#42](https://github.com/altananetwork/altana-sdk/pull/42)
 
-### 📦 Past builds
+### 🗄️ Past builds
 
 - **[StarkMint](https://github.com/web3xDev/StarkMint-tool)** — no-code launchpad for Starknet. Create your own token or NFT collection without writing a line of Cairo.
 - **[MintZilla](https://github.com/web3xDev/MintZilla-tool)** — no-code launchpad for EVM chains. Create your own token without writing a line of Solidity.
