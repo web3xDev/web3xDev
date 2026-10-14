@@ -18,6 +18,16 @@ Onchain tools for AI agents. An agent connects once over MCP or HTTP, sees every
 
 💻 Source: **[onchainrouter](https://github.com/web3xDev/onchainrouter)**
 
+### Kleos — [kleos.finance](https://kleos.finance)
+
+A verifiable credit history for AI agents. Every paid action an agent takes becomes a receipt, signed by the agent and countersigned by the tool it paid, anchored on Monad next to the x402 payment. Anyone can verify the record, and a good record earns credit: tools serve the agent first and invoice it onchain. Owners set spending rules with Privy that only their passkey can change.
+
+🏁 Built solo for Monad Metropolis, Track 4: Trust, Identity & AI Infrastructure. Judging in progress.
+
+📦 npm: **[kleos-sdk](https://www.npmjs.com/package/kleos-sdk)**, stamp every paid call from an agent runtime, countersign from an x402 tool, and grant pay-later credit.
+
+💻 Source: **[kleos](https://github.com/web3xDev/kleos)**
+
 ### Flash402 — [flash402.xyz](https://flash402.xyz)
 
 Onchain USDC paywall for any API using x402. Drop it in front of an endpoint, no accounts or API keys, and humans or agents pay per call.
