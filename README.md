@@ -20,7 +20,7 @@ Onchain tools for AI agents. An agent connects once over MCP or HTTP, sees every
 
 ### Kleos — [kleos.finance](https://kleos.finance)
 
-A verifiable credit history for AI agents. Every paid action an agent takes becomes a receipt, signed by the agent and countersigned by the tool it paid, anchored on Monad next to the x402 payment. Anyone can verify the record, and a good record earns credit: tools serve the agent first and invoice it onchain. Owners set spending rules with Privy that only their passkey can change.
+A verifiable payment history for AI agents. Every paid call becomes a receipt, signed by the agent and countersigned by the tool it paid, anchored on Monad next to the x402 payment. Tools use that history to decide how far to trust an agent, like serving it first and invoicing it later. With a Privy wallet, only the owner's passkey can change the spending rules.
 
 🏁 Built solo for Monad Metropolis, Track 4: Trust, Identity & AI Infrastructure.
 
