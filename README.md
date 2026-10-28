@@ -12,7 +12,7 @@ Web3 full-stack dev. I build polished onchain products, fast.
 
 Onchain tools for AI agents. An agent connects once over MCP or HTTP, sees every tool with its price, and pays per call with x402 from its own wallet, settled on Hedera or Arc. No API keys, no subscriptions; no answer, no charge. Data from The Graph.
 
-🏆 ETHOnline 2026 finalist, top 8 of 800+ submissions, built solo in a week.
+🏆 ETHOnline 2026 finalist, top 8 of 800+ submissions, prize winner, built solo in a week.
 
 📦 npm: **[onchainrouter](https://www.npmjs.com/package/onchainrouter)**, a one-line server paywall, a paying client, and a wallet MCP for Claude Code.
 
@@ -57,7 +57,7 @@ What I reach for most. But I pick up whatever a project needs, with AI it's like
 
 ### 🗄️ Past builds
 
-- **[StarkMint](https://github.com/web3xDev/StarkMint-tool)** — no-code launchpad for Starknet. Create your own token or NFT collection without writing a line of Cairo.
+- **[StarkMint](https://github.com/web3xDev/StarkMint-tool)** — no-code launchpad for Starknet. Create your own token or NFT collection without writing a line of Cairo. Featured in Dappland by Argent and inside the Argent wallet.
 - **[MintZilla](https://github.com/web3xDev/MintZilla-tool)** — no-code launchpad for EVM chains. Create your own token without writing a line of Solidity.
 
 ### 🤝 Reach me
