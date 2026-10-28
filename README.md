@@ -1,6 +1,6 @@
 # Hi, I'm Muhammed Alparslan 👋
 
-Frontend-focused web3 full-stack dev. I build polished onchain products, fast.
+Web3 full-stack dev. I build polished onchain products, fast.
 
 4+ years building in web3, including 2+ years as a frontend engineer shipping production UIs on a US DeFi platform built on Uniswap v3. Now I'm all-in on x402 and agentic payments: the rail for machines that pay per request.
 
