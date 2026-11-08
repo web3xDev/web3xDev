@@ -50,6 +50,7 @@ What I reach for most. But I pick up whatever a project needs; with AI, it’s l
 
 ### 🌱 Open source contributions
 
+- **[helius core-ai](https://github.com/helius-labs/core-ai)** — fixed `helius stake create` and `helius stake unstake` in the CLI, which never loaded the `--keypair` file and called the SDK without the owner signer, so both failed on every call; added the first tests for the stake commands, landed as [#234](https://github.com/helius-labs/core-ai/pull/234)
 - **[injective-ts](https://github.com/InjectiveLabs/injective-ts)** — fixed a mapping bug where the auction module returned the bid amount instead of the bidder address ([#704](https://github.com/InjectiveLabs/injective-ts/pull/704)); exposed missing `injBasketMaxCap`/`biddersWhitelist` fields in module params ([#705](https://github.com/InjectiveLabs/injective-ts/pull/705))
 - **[midnight-expert](https://github.com/midnightntwrk/midnight-expert)** — fixed the CLI installer pulling an unpinned, incompatible compiler version instead of the network-supported one, landed as [#262](https://github.com/midnightntwrk/midnight-expert/pull/262)
 - **[elfa-sdk-js](https://github.com/elfa-ai/elfa-sdk-js)** — fixed 429 retries ignoring the server's rate-limit reset, landed as [#97](https://github.com/elfa-ai/elfa-sdk-js/pull/97); co-authored the `MentionType`/`billingMode` narrowing in [#96](https://github.com/elfa-ai/elfa-sdk-js/pull/96)
